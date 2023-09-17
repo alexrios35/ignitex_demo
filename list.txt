@@ -1,0 +1,11 @@
+termux-api|Termux API
+x11-repo|X11 Repo
+jq|JQ
+git|Git
+file|File
+wget|WGET
+zip|ZIP
+unzip|UNZIP
+unrar|UNRAR
+openssh|Open SSH
+python|Python
